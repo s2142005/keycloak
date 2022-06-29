@@ -63,7 +63,7 @@
         <h2.version>1.4.193</h2.version>
         <javax.persistence.version>2.2</javax.persistence.version>
         <hibernate.core.version>5.3.6.Final</hibernate.core.version>
-        <infinispan.version>9.3.1.Final</infinispan.version>
+        <infinispan.version>11.0.6.Final</infinispan.version>
         <jackson.version>2.9.5</jackson.version>
         <javax.mail.version>1.6.1</javax.mail.version>
         <jboss.logging.version>3.3.2.Final</jboss.logging.version>
